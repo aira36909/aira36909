@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anjali Reddy
+- 👋 Hi, I’m Anjali Inturi
 - 👀 I’m interested in coding and researching 
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
